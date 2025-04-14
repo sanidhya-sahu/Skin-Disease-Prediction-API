@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "main.py",
+      "src": "skinP.py",
       "use": "@vercel/python"
     }
   ],
