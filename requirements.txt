@@ -1,6 +1,8 @@
 fastapi
 uvicorn
-pillow
+python-multipart
+Pillow
+# Specify CPU-only PyTorch to save space and memory
+--find-links https://download.pytorch.org/whl/cpu
 torch
 transformers
-python-multipart
